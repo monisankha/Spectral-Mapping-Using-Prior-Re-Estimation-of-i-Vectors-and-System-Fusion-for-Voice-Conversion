@@ -32,4 +32,4 @@ Main VC functions:
 
 14. plot_mcd_vartrnguttrncs.m--> MCD values plot with respect to change in number of parallel training utterances
 
-*** All these codes and all other codes are available in code_paper folder. For any query pls contact at monisankha.pal@gmail.com
+*** For any query pls contact at monisankha.pal@gmail.com
