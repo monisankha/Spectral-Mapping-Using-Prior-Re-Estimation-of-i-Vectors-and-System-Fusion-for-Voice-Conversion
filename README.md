@@ -8,11 +8,15 @@ oint density Gaussian mixture model (JDGMM) and i-vector based converted spectro
 and leverages the complementary merits of each subsystem.
 
 
-% Database used: CMU-ARCTIC, WSJ, TIMIT
+# Database used: 
 
-% Paper published: Pal, Monisankha, and Goutam Saha. ["Spectral mapping using prior re-estimation of i-vectors and system fusion for voice conversion."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8015184) IEEE/ACM Transactions on Audio, Speech, and Language Processing 25.11 (2017): 2071-2084.
+CMU-ARCTIC, WSJ, TIMIT
 
-Main VC functions:
+# Paper published: 
+
+Pal, Monisankha, and Goutam Saha. ["Spectral mapping using prior re-estimation of i-vectors and system fusion for voice conversion."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8015184) IEEE/ACM Transactions on Audio, Speech, and Language Processing 25.11 (2017): 2071-2084.
+
+# Main VC functions:
 
 1. gmm_vc_straight.m ---> JDGMM based VC using STRAIGHT Analysis/Synthesis
 
