@@ -10,8 +10,7 @@ and leverages the complementary merits of each subsystem.
 
 % Database used: CMU-ARCTIC, WSJ, TIMIT
 
-% Paper published: Pal, Monisankha, and Goutam Saha. "Spectral mapping using prior re-estimation of i-vectors and system fusion for voice conversion." 
-IEEE/ACM Transactions on Audio, Speech, and Language Processing 25.11 (2017): 2071-2084.
+% Paper published: Pal, Monisankha, and Goutam Saha. ["Spectral mapping using prior re-estimation of i-vectors and system fusion for voice conversion."](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8015184) IEEE/ACM Transactions on Audio, Speech, and Language Processing 25.11 (2017): 2071-2084.
 
 Main VC functions:
 
